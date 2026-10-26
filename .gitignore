@@ -4,3 +4,6 @@
 *.db-journal
 .idea/
 .vscode/
+
+# Personal learning notes (local only)
+LEARNING.md

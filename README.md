@@ -4,7 +4,7 @@ A clipboard history manager for Linux, inspired by Windows Clipboard History
 (Win+V), written in Rust.
 
 > **Status:** early development — Milestone 1 (core domain model).
-> This is also a learning project; see `LEARNING.md`.
+> This is also a learning project.
 
 ## Planned features
 
@@ -34,7 +34,7 @@ cargo clippy --all-targets -- -D warnings
 
 - `ARCHITECTURE.md` — components, decisions, Linux-specific risks
 - `ROADMAP.md` — milestones and acceptance criteria
-- `LEARNING.md` — concepts studied, assignments, progress
+- `LEARNING.md` — personal learning notes (local only, not tracked by git)
 - `AGENTS.md` — mentoring and development rules for AI assistants
 
 ## License
